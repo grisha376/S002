@@ -1,0 +1,6 @@
+﻿  S002.cpp
+C:\Users\Grigori\Desktop\S002\S002\S002.cpp(50,9): warning C4102: b2: неиспользованная метка
+C:\Users\Grigori\Desktop\S002\S002\S002.cpp(53,1): warning C4102: b3: неиспользованная метка
+C:\Users\Grigori\Desktop\S002\S002\S002.cpp(57,1): warning C4102: b4: неиспользованная метка
+C:\Users\Grigori\Desktop\S002\S002\S002.cpp(62,1): warning C4102: b5: неиспользованная метка
+  S002.vcxproj -> C:\Users\Grigori\Desktop\S002\Debug\S002.exe
